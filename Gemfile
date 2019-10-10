@@ -72,6 +72,9 @@ gem 'devise'
 gem 'jquery-rails'
 gem 'popper_js', '~> 1.11.1'
 gem 'bootstrap', '4.0.0.alpha6'
+gem 'carrierwave', '~> 2.0'
+gem "figaro"
+gem "fog-aws"
 
 
 source 'https://rails-assets.org' do
