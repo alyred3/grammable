@@ -106,3 +106,12 @@ input {
   font-weight: bold;
   font-size: 18px;
 }
+
+.img-fluid {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  transform: rotate(90deg);
+  width:  727px;
+  height: 727px;
+  background-size: cover
+}
