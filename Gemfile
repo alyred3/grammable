@@ -75,6 +75,7 @@ gem 'bootstrap', '4.0.0.alpha6'
 gem 'carrierwave', '~> 2.0'
 gem "figaro"
 gem "fog-aws"
+gem "mini_magick"
 
 
 source 'https://rails-assets.org' do
