@@ -10,21 +10,19 @@ __
 
 * Ruby 2.5.3
 
-* System dependencies
+* Test Driven Development using Rspec and FactoyBot
 
-* Configuration
+* PostgresSQL database
 
-* Database creation
+* Devise for user authentication
 
-* Database initialization
+* Simple Form gem 
 
-* How to run the test suite
+* Amazon Web Service (AWS) for image storage
 
-* Services (job queues, cache servers, search engines, etc.)
+* CarrierWave for file uploads
 
-* Deployment instructions
-
-* ...
+* MiniMagic gem for image resizing
 
 __
 
