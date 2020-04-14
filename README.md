@@ -1,11 +1,14 @@
-# README
+# Grammable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An Instagram clone built using Test Driven Development.
 
-Things you may want to cover:
+[View the deployed application](https://grammable-alyssa-redman.herokuapp.com/grams)
 
-* Ruby version
+__
+
+### Features
+
+* Ruby 2.5.3
 
 * System dependencies
 
@@ -22,3 +25,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+__
+
+### Screenshots
+![Screenshot](app/assets/images/feed.png)
