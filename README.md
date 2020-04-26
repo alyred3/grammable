@@ -24,13 +24,13 @@ ____________
 
 * MiniMagic gem for image resizing
 
-__
+____________
 
 ### How to use 
 
 Users can log into to Grammable to  create new posts, edit and destroy existing posts, or leave comments.
 
-__
+______
 
 ### Screenshots
 ![Screenshot](app/assets/images/feed.png)
