@@ -4,13 +4,13 @@ An Instagram clone built using Test Driven Development.
 
 [View the deployed application](https://grammable-alyssa-redman.herokuapp.com/grams)
 
-__
+____________
 
 ### Features
 
 * Ruby 2.5.3
 
-* Test Driven Development using Rspec and FactoyBot
+* Test Driven Development using Rspec and FactoyBot gems
 
 * PostgresSQL database
 
@@ -26,5 +26,13 @@ __
 
 __
 
+### How to use 
+
+Users can log into to Grammable to  create new posts, edit and destroy existing posts, or leave comments.
+
+__
+
 ### Screenshots
 ![Screenshot](app/assets/images/feed.png)
+
+
