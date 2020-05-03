@@ -38,16 +38,16 @@ ____________
 
 ### How to use 
 
-## Sign up to create an account
+#### Sign up to create an account
 ![Screenshot](app/assets/images/signup.gif)
 
-## Post new photos
+#### Post new photos
 ![Screenshot](app/assets/images/new.gif)
 
-## Add comments
+#### Add comments
 ![Screenshot](app/assets/images/comment.gif)
 
-## Edit and destroy
+#### Edit and destroy
 ![Screenshot](app/assets/images/editdestroy.gif)
 
 
