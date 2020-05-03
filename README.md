@@ -41,6 +41,7 @@ Run `$ bundle install`
 Run `$ bundle exec figaro install` to add `config/application.yml`  to add to your `.gitignore`
 
 Add AWS keys to `config/application.yml` to congifure application to connect to you Amazon S3 account for image uploading
+[Amazon S3 accounts can be set up here](https://docs.aws.amazon.com/AmazonS3/latest/gsg/SigningUpforS3.html)
 
 ____________
 
