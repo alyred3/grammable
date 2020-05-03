@@ -20,6 +20,8 @@ ____________
 
 * Amazon Web Service (AWS) for image storage
 
+* Figaro gem for secure configuration
+
 * CarrierWave for file uploads
 
 * MiniMagic gem for image resizing
@@ -35,6 +37,10 @@ From terminal window change to local directory where you want to clone repo
 Paste clone command into command line `$git clone git@github.com:alyred3/grammable.git` or `$git clone https://github.com/alyred3/grammable.git`
 
 Run `$ bundle install`
+
+Run `$ bundle exec figaro install` to add `config/application.yml`  to add to your `.gitignore`
+
+Add AWS keys to `config/application.yml` to congifure application to connect to you Amazon S3 account for image uploading
 
 ____________
 
