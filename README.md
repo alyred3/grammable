@@ -28,7 +28,7 @@ ____________
 
 ### Installation
 
-From this repository click <b>Clone this repository</b> and copy clone command for SSH `git@github.com:alyred3/grammable.git` or HTTPS `https://github.com/alyred3/grammable.git`
+From this repository click <b>Clone or download</b> and copy clone command for SSH `git@github.com:alyred3/grammable.git` or HTTPS `https://github.com/alyred3/grammable.git`
 
 From terminal window change to local directory where you want to clone repo
 
