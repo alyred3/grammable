@@ -34,7 +34,7 @@ From terminal window change to local directory where you want to clone repo
 
 Paste clone command into command line `$git clone git@github.com:alyred3/grammable.git` or `$git clone https://github.com/alyred3/grammable.git`
 
-Run `bundle install`
+Run `$ bundle install`
 
 ____________
 
