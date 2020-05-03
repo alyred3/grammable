@@ -26,13 +26,34 @@ ____________
 
 ____________
 
+### Installation
+
+Clone with SSH `git@github.com:alyred3/grammable.git` or HTTPS `https://github.com/alyred3/grammable.git`
+
+Run `git clone git@github.com:alyred3/grammable.git` or `git clone https://github.com/alyred3/grammable.git` in local command line
+
+Run `bundle install`
+
+____________
+
 ### How to use 
 
-Users can log into to Grammable to  create new posts, edit and destroy existing posts, or leave comments.
+## Sign up to create an account
+![Screenshot](app/assets/images/signup.gif)
 
-______
+## Post new photos
+![Screenshot](app/assets/images/new.gif)
 
-### Screenshots
-![Screenshot](app/assets/images/feed.png)
+## Add comments
+![Screenshot](app/assets/images/comment.gif)
+
+## Edit and destroy
+![Screenshot](app/assets/images/editdestroy.gif)
+
+
+
+
+
+
 
 
